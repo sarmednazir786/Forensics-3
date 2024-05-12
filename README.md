@@ -1,1 +1,1 @@
-iso -> extract embedded file -> use the code de-scramble image
+iso -> extract embedded file -> use the code -> de-scramble image
